@@ -105,3 +105,8 @@ dist
 
 # Package manager files
 .lock
+
+# Build and temporary folders
+build/
+tmp/
+temp/
